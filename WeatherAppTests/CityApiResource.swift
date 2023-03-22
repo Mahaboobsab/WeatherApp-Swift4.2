@@ -1,10 +1,3 @@
-//
-//  LoginApiResource.swift
-//  TestCaseDemo
-//
-//  Created by CodeCat15 on 12/24/20.
-//
-
 import Foundation
 
 struct CityApiResource {
