@@ -20,6 +20,7 @@ class SearchCityVC: BaseViewController, UITableViewDelegate, UITableViewDataSour
     var cachedCityList = [CityList]()
     
     // MARK:  Propertie's
+    
     private let searchViewModel = SearchViewModelImp()
     weak var delegate: SerachCityProtocolDelegate?
     
@@ -108,7 +109,6 @@ extension SearchCityVC {
         } catch {
             print("Unable to Encode Note (\(error))")
         }
-        
         delegate?.getSearchedCIty(city: cityList[indexPath.row])
         self.dismiss(animated: true)
         
