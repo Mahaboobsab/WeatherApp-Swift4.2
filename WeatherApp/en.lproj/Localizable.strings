@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by mituser on 22/03/23.
+  
+*/
+"General.ok" = "OK";
+"General.Error" = "Error";
+"General.Network.Error" = "Plz check network connection";
+"SearchCity.noresults.error" = "No results found";

@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Temp Min"; ObjectID = "2Mu-Yg-Esm"; */
+"2Mu-Yg-Esm.text" = "Temp Min";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Gma-DO-2hN"; */
+"Gma-DO-2hN.text" = "0";
+
+/* Class = "UILabel"; text = "Humidity"; ObjectID = "K57-aB-J0O"; */
+"K57-aB-J0O.text" = "Humidity";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MXW-fb-SuV"; */
+"MXW-fb-SuV.text" = "Label";
+
+/* Class = "UILabel"; text = "Temp Max"; ObjectID = "MsS-fr-BCx"; */
+"MsS-fr-BCx.text" = "Temp Max";
+
+/* Class = "UITextField"; placeholder = "Search only US cities"; ObjectID = "VLU-k1-EHs"; */
+"VLU-k1-EHs.placeholder" = "Search only US cities";
+
+/* Class = "UILabel"; text = "Weather details"; ObjectID = "bof-mh-a2P"; */
+"bof-mh-a2P.text" = "Weather details";
+
+/* Class = "UILabel"; text = "City Name"; ObjectID = "cAA-Xc-2lC"; */
+"cAA-Xc-2lC.text" = "City Name";
+
+/* Class = "UINavigationItem"; title = "Search City"; ObjectID = "dv8-Bx-Usp"; */
+"dv8-Bx-Usp.title" = "Search City";
+
+/* Class = "UILabel"; text = "Feels Like"; ObjectID = "gOy-VB-24o"; */
+"gOy-VB-24o.text" = "Feels Like";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "rqI-sj-aD7"; */
+"rqI-sj-aD7.text" = "Description";
+
+/* Class = "UIButton"; configuration.title = "SEARCH"; ObjectID = "t5R-Mb-dX8"; */
+"t5R-Mb-dX8.configuration.title" = "SEARCH";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "t5R-Mb-dX8"; */
+"t5R-Mb-dX8.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Weather App"; ObjectID = "tYr-Lz-XEK"; */
+"tYr-Lz-XEK.title" = "Weather App";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vvt-6d-fPB"; */
+"vvt-6d-fPB.text" = "Label";
